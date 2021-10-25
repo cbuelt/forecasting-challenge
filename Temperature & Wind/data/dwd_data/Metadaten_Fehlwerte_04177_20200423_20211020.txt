@@ -1,0 +1,4 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+4177;Rheinstetten;F;26.11.2020-13:00;27.11.2020-09:00;21;;eor;                                                                                                                                          
+4177;Rheinstetten;D;26.11.2020-13:00;27.11.2020-08:00;20;;eor;                                                                                                                                          
+generiert: 25.10.2021 --  Deutscher Wetterdienst  --                                                                                                                                                    

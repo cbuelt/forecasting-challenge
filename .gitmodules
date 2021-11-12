@@ -3,4 +3,4 @@
 	url = https://git.scc.kit.edu/nw5893/kit-weather-ensemble-point-forecast-karlsruhe.git
 [submodule "Temperature & Wind/data/berlin_data/icon_data"]
 	path = Temperature & Wind/data/berlin_data/icon_data
-	url = https://git.scc.kit.edu/nw5893/kit-weather-ensemble-point-forecast-berlin
+	url = https://git.scc.kit.edu/wp2886/kit-weather-ensemble-point-forecast-berlin.git

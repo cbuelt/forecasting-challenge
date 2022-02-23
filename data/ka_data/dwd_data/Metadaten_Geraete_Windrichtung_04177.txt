@@ -1,5 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-4177;Rheinstetten;8.33;48.97;116.1;10;20081101;20110518;Windrichtungssensor Classic 4.3121;Windmessung, elektr.;eor;
-4177;Rheinstetten;8.33;48.97;116.1;10;20110519;20200921;Windrichtungssensor Classic 4.3121;Windmessung, elektr.;eor;
-4177;Rheinstetten;8.33;48.97;116.1;10;20200922;20211024;Ultrasonic Anemometer 2D compact;Windmessung, elektr.;eor;
-generiert: 25.10.2021 --  Deutscher Wetterdienst  --

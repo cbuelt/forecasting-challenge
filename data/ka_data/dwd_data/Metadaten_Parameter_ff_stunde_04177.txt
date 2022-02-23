@@ -1,5 +1,0 @@
-Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Einheit;Datenquelle (Strukturversion=SV);Zusatz-Info;Besonderheiten;Literaturhinweis;eor;
-4177;20081101;20211020;Rheinstetten;D;Windrichtung Messnetz 3;Grad;Winddaten (Stundenmittel, maximale Windspitze 23:51-23:50 UTC) generiert aus 10-Minutenmittel von automatischen Stationen der 2. Generation (AMDA), Richtungsangaben in 36-teiliger Windrose;Stundenwerte in UTC;;;eor;
-4177;20081101;20211020;Rheinstetten;F;Windgeschwindigkeit Messnetz 3;m/sec;Winddaten (Stundenmittel, maximale Windspitze 23:51-23:50 UTC) generiert aus 10-Minutenmittel von automatischen Stationen der 2. Generation (AMDA), Richtungsangaben in 36-teiliger Windrose;Stundenwerte in UTC;;;eor;
-Legende: FT  = Folgetag; GZ = Gesetzliche Zeit
-generiert: 25.10.2021 --  Deutscher Wetterdienst  --

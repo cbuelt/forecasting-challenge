@@ -3,10 +3,9 @@
 * [Technologies](#technologies)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project contains my code for the Probabilistic Time Series Forecasting Challenge carried out by the chair of Applied Econometrics at the Karlsruher Institute of Technology (KIT).
 	
 ## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+The project uses the following framework versions:
+* Python version: 3.8.8
+* TensorFlow version: 2.4.1

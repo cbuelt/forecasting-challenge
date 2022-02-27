@@ -1,6 +1,5 @@
 # Probabilistic Time Series Forecasting Challenge
 
-Description...
 
 | File | Description |
 | ---- | ----------- | 

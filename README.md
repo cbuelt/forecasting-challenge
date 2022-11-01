@@ -1,7 +1,7 @@
 ## Table of contents
 * [General info](#general-info) 
 * [Files](#files)
-* [Models & Data] (*files)
+* [Models & Data] (#files)
 * [Technologies](#technologies)
 
 ## General info

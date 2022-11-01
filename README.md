@@ -1,7 +1,7 @@
 ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
+* [General info](#general-info) 
 * [Files](#files)
+* [Technologies](#technologies)
 
 ## General info
 This project contains my code for the Probabilistic Time Series Forecasting Challenge carried out by the chair of Applied Econometrics at the Karlsruher Institute of Technology (KIT).
